@@ -5,3 +5,4 @@ def capital(strings):
                 Capital_str.append(element)
     return Capital_str
 print(capital(['Krowa', 'swinia', 'Byk', 'Kun']))
+
