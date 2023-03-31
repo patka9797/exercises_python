@@ -7,3 +7,4 @@ Person1=("patrycja", 25)
 print('Witaj', Person1)
 
 
+

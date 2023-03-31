@@ -9,3 +9,5 @@ def sum_word_in_string(string):
     return counts
 print(sum_word_in_string('babka, jajko,babka, kurczak'))
 
+
+

@@ -8,3 +8,4 @@ def long_time(n):
         for j in range(100000):
             i*j
 long_time(10)
+
