@@ -1,7 +1,9 @@
 def capital(strings):
-    Capital_str=[]
+    Capital_str = []
     for i, element in enumerate(strings):
-        if  element==element.capitalize():
-                Capital_str.append(element)
+        if element == element.capitalize():
+            Capital_str.append(element)
     return Capital_str
-print(capital(['Krowa', 'swinia', 'Byk', 'Kun']))
+
+
+print(capital(["Krowa", "swinia", "Byk", "Kun"]))
